@@ -1,0 +1,11 @@
+#memoire{
+    top: 10px;
+    left: 20px;
+    display: none;
+}
+
+body{
+    background-color: black;
+    background-size: cover;
+}
+
